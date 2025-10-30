@@ -1,4 +1,4 @@
-<img width="202" height="81" alt="y shape" src="https://github.com/user-attachments/assets/de926b4b-cbfc-4713-bc75-151ad2f804fc" /><img width="790" height="277" alt="data" src="https://github.com/user-attachments/assets/ede89eb5-3b3c-4bd4-b232-7fd0aab4cd89" /># Implementation-of-SVM-For-Spam-Mail-Detection
+# Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
